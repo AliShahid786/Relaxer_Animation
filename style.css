@@ -44,8 +44,7 @@ body {
     z-index: -2;
     border-radius: 50%;
     position: absolute;
-    top: -10px;
-    left: -10px;
+
 }
 
 .pointer {
